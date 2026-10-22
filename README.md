@@ -99,5 +99,5 @@ The notebook downloads the dataset automatically with `kagglehub`. If that fails
 
 ## Author
 
-**<your Cherish Akhigbe>**
+**Cherish Akhigbe**
 [LinkedIn](<https://www.linkedin.com/in/akhigbe-cherish>)
